@@ -11,9 +11,8 @@ def check_speed(speed):
         print("STOP.")
         activate_speedcamera()
 
-def speed_decreasing(speed):
-    # code to check if speed is decreasing goes here
-    pass
+#def speed_decreasing(speed):
+    #if speed <= last_speed
 
 def activate_speedcamera():
 
